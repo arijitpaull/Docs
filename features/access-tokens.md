@@ -49,7 +49,6 @@ Each Access Token profile can contain authorization to many different features. 
   * `DeleteDevice`: Grants access to delete devices.
   * `CreateDevice`: Grants access to create a new device.
   * `UpdateDevice`: Grants access to modify a device, like its description or credential.
-  * `ListDeviceLocations`: Grants access to fetch the connected devices locations.
 * **Bucket**: Provides access to a single bucket or all buckets. It is possible to define the action between:
   * `ReadBucket`: Grants access to read information stored in a bucket.
   * `WriteBucket`: Grants access to write information to a bucket.
